@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
 <h2 align="left">Hi 👋! My name is Amanjot Sidhu and I'm a computer science student</h2>
 
 ###
@@ -37,3 +39,5 @@
 </div>
 
 ###
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
